@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <h1>Hi there, I'm Sachin! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdpcGU4dXpwYTR4c3g2bDR5c3U5d3Z1dDE0M2RrdjV2cGo5bm5qZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wj7lNjMNDx1e38pd1s/giphy.gif" width="30"></h1>
-  <h3>Software Developer | AI Enthusiast | Game Dev Explorer</h3>
+  <h1>Hi there, I'm Sunidhi! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdpcGU4dXpwYTR4c3g2bDR5c3U5d3Z1dDE0M2RrdjV2cGo5bm5qZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wj7lNjMNDx1e38pd1s/giphy.gif" width="30"></h1>
+  <h3>FullStack Developer </h3>
   
-  <a href="https://komarev.com/ghpvc/?username=Sachinpd-1703&style=flat-square&color=blueviolet" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Sachinpd-1703&style=flat-square&color=blueviolet" alt="Profile views">
+  <a href="https://komarev.com/ghpvc/?username=Sunidhichaudhary21&style=flat-square&color=blueviolet" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Sunidhichaudhary21&style=flat-square&color=blueviolet" alt="Profile views">
   </a>
 </div>
 
@@ -20,7 +20,7 @@
   <tr>
     <td>
       <h3>👋 About Me</h3>
-      <p>I'm passionate about building secure systems, exploring AI frontiers, and diving into creative game development. I enjoy bridging the gap between robust backend systems and immersive digital experiences.</p>
+      <p>I'm passionate about building secure systems, exploring AI frontiers, and diving into creative web development. I enjoy bridging the gap between robust backend systems and immersive digital experiences.</p>
       <ul>
         <li>🔐 Currently building a <b>secure authenticator system</b> with advanced security patterns.</li>
         <li>🤖 Exploring <b>AI and automation projects</b> that solve real-world problems.</li>
@@ -118,7 +118,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sachinpd1703" target="_blank">
+  <a href="https://linkedin.com/in/Sunidhi Chaudhary" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:youremail@example.com" target="_blank">

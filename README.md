@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <h1>Hi there, I'm Sunidhi! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdpcGU4dXpwYTR4c3g2bDR5c3U5d3Z1dDE0M2RrdjV2cGo5bm5qZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wj7lNjMNDx1e38pd1s/giphy.gif" width="30"></h1>
-  <h3>FullStack Developer </h3>
+  <h1>Hi there, I'm Sunidhi! <img src="https://media.giphy.com/media/Wj7lNjMNDx1e38pd1s/giphy.gif" width="30"></h1>
+  <h3>💻 Full Stack Developer</h3>
   
   <a href="https://komarev.com/ghpvc/?username=Sunidhichaudhary21&style=flat-square&color=blueviolet" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Sunidhichaudhary21&style=flat-square&color=blueviolet" alt="Profile views">
@@ -10,118 +10,78 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Exploring+Game+Development;Building+Secure+%26+Scalable+Systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Secure+%26+Scalable+Web+Apps;Passionate+About+Frontend+%26+Backend)
 
 </div>
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <h3>👋 About Me</h3>
-      <p>I'm passionate about building secure systems, exploring AI frontiers, and diving into creative web development. I enjoy bridging the gap between robust backend systems and immersive digital experiences.</p>
-      <ul>
-        <li>🔐 Currently building a <b>secure authenticator system</b> with advanced security patterns.</li>
-        <li>🤖 Exploring <b>AI and automation projects</b> that solve real-world problems.</li>
-        <li>🎮 Learning <b>Unreal Engine</b> for game development and <b>Blender</b> for 3D modeling.</li>
-        <li>📚 Deepening my knowledge in <b>advanced C++</b> and <b>scalable system design</b>.</li>
-        <li>🤝 Open to collaborating on <b>open-source AI tools</b>, <b>indie games</b>, and <b>secure backend solutions</b>.</li>
-      </ul>
-      <hr>
-      <h3>💡 Fun Fact</h3>
-      <p>I believe the best software comes from mixing logic with creativity — whether I'm architecting secure systems or brainstorming comedy-horror game concepts that make players laugh and jump at the same time! 😄👻</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">📊 My GitHub Stats</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sachinpd-1703&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinpd-1703&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-        <br><br>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Sachinpd-1703&theme=radical&hide_border=true" alt="GitHub Streak">
-        <br><br>
-        <img src="https://github-profile-trophy.vercel.app/?username=Sachinpd-1703&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="Trophy">
-      </div>
-    </td>
-  </tr>
-</table>
+## 👋 About Me  
+
+I’m a **Full Stack Developer** passionate about creating **scalable, secure, and user-friendly web applications**.  
+I love building **end-to-end solutions** from frontend to backend and continuously improving my skills in modern technologies.  
+
+- 🌱 Currently working on **SecurePass – a smart password manager**  
+- 🔭 Exploring **modern frontend frameworks** and **cloud deployments**  
+- ⚡ Skilled in **MERN stack, APIs, databases, and authentication systems**  
+- 🤝 Open to collaborating on **web apps, SaaS tools, and open-source projects**  
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🛠️ Tech Stack  
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center"><strong>Languages & Core Tech</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Web & Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-      <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>AI & Data Science</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
-      <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-      <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-      <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-    </td>
-  </tr>
-    <tr>
-    <td align="center"><strong>Game Dev & Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
-      <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    </td>
-  </tr>
-</table>
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+
+### 🛠️ Tools & DevOps  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
 </div>
 
 ---
 
-### 🐍 My GitHub Contribution Snake
+## 📊 GitHub Stats  
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/Sachinpd-1703/Sachinpd-1703/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/Sachinpd-1703/Sachinpd-1703/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake"
-         src="https://raw.githubusercontent.com/Sachinpd-1703/Sachinpd-1703/output/github-contribution-grid-snake.svg"
-         style="max-width: 100%; height: auto;" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunidhichaudhary21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunidhichaudhary21&theme=tokyonight&layout=compact&hide_border=true" height="170px"/>
 </div>
 
 ---
 
-### 🌐 Connect With Me
+## 🐍 GitHub Contribution Snake  
 
-<p align="center">
-  <a href="https://linkedin.com/in/Sunidhi Chaudhary" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  </p>
+<div align="center">
+  <img src="https://github.com/Sunidhichaudhary21/Sunidhichaudhary21/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</div>
+
+---
+
+## 📫 Contact Me  
+
+- 📧 Email: **csunidhi22@gmail.com**  
+- 💼 LinkedIn:(https://linkedin.com/in/Sunidhi Chaudhary)   
+- 🐦 Twitter: (https://twitter.com/yourhandle)  

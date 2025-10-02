@@ -73,7 +73,7 @@ I love transforming ideas into **end-to-end solutions** and continuously learnin
 <div align="center">  
 
 [![Email](https://img.shields.io/badge/Email-csunidhi22%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csunidhi22@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunidhi%20Chaudhary-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunidhi-chaudhary)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunidhi%20Chaudhary-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SunidhiChaudhary)  
 [![Twitter](https://img.shields.io/badge/Twitter-@SunidhiChau49034-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@SunidhiCha49034)  
 
 </div>  

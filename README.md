@@ -38,12 +38,10 @@ I love transforming ideas into **end-to-end solutions** and continuously learnin
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
@@ -75,7 +73,7 @@ I love transforming ideas into **end-to-end solutions** and continuously learnin
 <div align="center">  
 
 [![Email](https://img.shields.io/badge/Email-csunidhi22%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csunidhi22@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunidhi%20Chaudhary-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SunidhiChaudhary)  
-[![Twitter](https://img.shields.io/badge/Twitter-@SunidhiChau49034-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SunidhiChau49034)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunidhi%20Chaudhary-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunidhi-chaudhary)  
+[![Twitter](https://img.shields.io/badge/Twitter-@SunidhiChau49034-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@SunidhiCha49034)  
 
 </div>  

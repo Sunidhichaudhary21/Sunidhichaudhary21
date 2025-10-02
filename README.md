@@ -72,16 +72,10 @@ I love building **end-to-end solutions** from frontend to backend and continuous
 
 ---
 
-## 🐍 GitHub Contribution Snake  
 
-<div align="center">
-  <img src="https://github.com/Sunidhichaudhary21/Sunidhichaudhary21/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</div>
-
----
 
 ## 📫 Contact Me  
 
 - 📧 Email: **csunidhi22@gmail.com**  
-- 💼 LinkedIn:(https://linkedin.com/in/Sunidhi Chaudhary)   
-- 🐦 Twitter: (https://twitter.com/yourhandle)  
+- 💼 LinkedIn:(https://linkedin.com/in/SunidhiChaudhary)   
+- 🐦 Twitter: (https://twitter.com/SunidhiChau49034)  

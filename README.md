@@ -20,7 +20,7 @@
 
 ---
 
-# 👩‍💻 CYBER PROFILE
+# 👩‍💻  PROFILE
 
 ```diff
 + Name: Sunidhi Chaudhary
@@ -43,7 +43,7 @@
 # 🌐 PORTFOLIO HUB
 
 <p align="center">
-  <a href="https://bworth-redesign.vercel.app">
+  <a href="sunidhi11.netlify.app">
     <img src="https://img.shields.io/badge/🚀_Visit_Portfolio-000?style=for-the-badge&logo=vercel&color=00F7FF"/>
   </a>
 </p>
@@ -62,9 +62,9 @@
 # 🐍 CONTRIBUTION SNAKE (AUTO ANIMATED)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sunidhichaudhary21/Sunidhichaudhary21/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunidhichaudhary21&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhichaudhary21&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 # 🚀 PROJECT SHOWCASE 

@@ -62,8 +62,7 @@
 # 🐍 CONTRIBUTION SNAKE (AUTO ANIMATED)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunidhichaudhary21&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhichaudhary21&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/Sunidhichaudhary21/Sunidhichaudhary21/output/github-contribution-grid-snake.svg"/>
 </p>
 ---
 

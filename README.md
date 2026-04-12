@@ -20,7 +20,7 @@
 
 ---
 
-# 👩‍💻  PROFILE
+# 👩‍💻 CYBER PROFILE
 
 ```diff
 + Name: Sunidhi Chaudhary
@@ -59,14 +59,6 @@
 
 ---
 
-# 🧠 CODING POWER
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunidhichaudhary21&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🐍 CONTRIBUTION SNAKE (AUTO ANIMATED)
 
 <p align="center">
@@ -75,16 +67,16 @@
 
 ---
 
-# 🚀 PROJECT SHOWCASE (CYBER GRID)
+# 🚀 PROJECT SHOWCASE 
 
 ## 🔥 Featured Projects
 
-### 🧠 LeetMetric
+### 🧠 UGC ads
 
 ```diff
-+ 📊 LeetCode Analytics Dashboard
-+ ⚡ Tracks performance & progress
-+ 🛠 Built with React + APIs
++ 📊 User Generated Ads creator
++ ⚡ create your vision in a minute
++ 🛠 Fullstack web application
 ```
 
 <p>
@@ -103,17 +95,17 @@
 ```
 
 <p>
-  <a href="https://bworth-redesign.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-00F7FF?style=for-the-badge"/></a>
+  <a href="https://sunidhi11.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-00F7FF?style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Code-GitHub-FF00FF?style=for-the-badge"/></a>
 </p>
 
 ---
 
-### FocusFlow
+### 🏗 FocusFlow
 
 ```diff
-+ 🔥 FullStack web Application
-+ ⚡ Design UI Ux
++ 🔥 UI/UX Design
++ ⚡ Performance Optimized
 + 🎯 Real-world project
 ```
 

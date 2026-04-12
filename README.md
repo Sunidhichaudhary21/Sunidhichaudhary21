@@ -62,7 +62,7 @@
 # 🐍 CONTRIBUTION SNAKE (AUTO ANIMATED)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sunidhichaudhary21/Sunidhichaudhary21/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Sunidhichaudhary21/Sunidhichaudhary21/output/snake.svg"/>
 </p>
 ---
 

@@ -43,7 +43,7 @@
 # 🌐 PORTFOLIO HUB
 
 <p align="center">
-  <a href="sunidhi11.netlify.app">
+   <a href="https://sunidhi11.netlify.app">
     <img src="https://img.shields.io/badge/🚀_Visit_Portfolio-000?style=for-the-badge&logo=vercel&color=00F7FF"/>
   </a>
 </p>

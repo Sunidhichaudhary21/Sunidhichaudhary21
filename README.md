@@ -32,7 +32,7 @@
 
 ---
 
-# ⚡ TECH STACK (NEON GRID)
+# ⚡ TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,java,python,html,css,tailwind,git,github,vercel&theme=dark" />

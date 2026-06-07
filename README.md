@@ -1,134 +1,103 @@
-<!-- ================= CYBERPUNK BANNER ================= -->
+# 👋 Hi, I'm Sunidhi Chaudhary
+
+### Full Stack Developer | MERN Stack | Problem Solver
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Sunidhi%20Chaudhary&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DSA&descAlignY=60"/>
-</p>
-
-<!-- ================= TYPING ANIMATION ================= -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=🚀+Building+Scalable+Web+Apps;💻+MERN+Stack+Developer;🧠+DSA+%7C+Problem+Solver;⚡+Always+Learning+New+Tech"/>
-</p>
-
-<!-- ================= CYBER BADGES ================= -->
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Sunidhichaudhary21?style=for-the-badge&color=00F7FF"/>
-  <img src="https://img.shields.io/github/stars/Sunidhichaudhary21?style=for-the-badge&color=FF00FF"/>
-  <img src="https://komarev.com/ghpvc/?username=Sunidhichaudhary21&style=for-the-badge&color=0e75b6"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Problem+Solver;Building+Scalable+Web+Applications"/>
 </p>
 
 ---
 
-# 👩‍💻  PROFILE
+## 🚀 About Me
 
-```diff
-+ Name: Sunidhi Chaudhary
-+ Role: Full Stack Developer (MERN)
-+ Focus: Scalable Web Apps + Clean UI/UX
-+ Strength: DSA + Problem Solving
-+ Status: Building. Learning. Growing 🚀
-```
+- 🎓 B.Tech CSE Student
+- 💻 Full Stack Developer (MERN)
+- 🌱 Currently learning System Design & Advanced React
+- 🧩 Strong interest in DSA and Problem Solving
+- ⚡ Passionate about building modern web applications
 
 ---
 
-# ⚡ TECH STACK
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,java,python,html,css,tailwind,git,github,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vercel,vscode" />
 </p>
 
 ---
 
-# 🌐 PORTFOLIO HUB
+## 📊 GitHub Analytics
 
 <p align="center">
-   <a href="https://sunidhi11.netlify.app">
-    <img src="https://img.shields.io/badge/🚀_Visit_Portfolio-000?style=for-the-badge&logo=vercel&color=00F7FF"/>
-  </a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sunidhichaudhary21&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhichaudhary21&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 📊 GITHUB ANALYTICS (LIVE)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunidhichaudhary21&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhichaudhary21&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sunidhichaudhary21&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 🚀 PROJECT SHOWCASE 
+## 🌟 Featured Projects
 
-## 🔥 Featured Projects
+### 🚀 UGC Ads Platform
 
-### 🧠 UGC ads
+Create high-converting user-generated advertisements quickly.
 
-```diff
-+ 📊 User Generated Ads creator
-+ ⚡ create your vision in a minute
-+ 🛠 Fullstack web application
-```
+**Tech Stack:** React, Node.js, Express, MongoDB
 
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Live-Demo-00F7FF?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Code-GitHub-FF00FF?style=for-the-badge"/></a>
-</p>
+[🌐 Live Demo](#) • [💻 Source Code](#)
 
 ---
 
-### 🌐 Portfolio Website
+### 💼 Portfolio Website
 
-```diff
-+ 💼 Personal Developer Portfolio
-+ 🎨 Modern UI/UX Design
-+ ⚡ Fully Responsive
-```
+Modern personal portfolio showcasing projects and skills.
 
-<p>
-  <a href="https://sunidhi11.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-00F7FF?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Code-GitHub-FF00FF?style=for-the-badge"/></a>
-</p>
+**Tech Stack:** React, Tailwind CSS, Vercel
+
+[🌐 Live Demo](https://sunidhi11.netlify.app)
 
 ---
 
-### 🏗 FocusFlow
+### 🎯 FocusFlow
 
-```diff
-+ 🔥 UI/UX Design
-+ ⚡ Performance Optimized
-+ 🎯 Real-world project
-```
+Productivity-focused UI/UX project built with performance in mind.
 
-<p>
-  <a href="https://www.sachinpd1703.online/"><img src="https://img.shields.io/badge/Live-Demo-00F7FF?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Code-GitHub-FF00FF?style=for-the-badge"/></a>
-</p>
+**Tech Stack:** React, JavaScript
+
+[🌐 Live Demo](https://www.sachinpd1703.online)
 
 ---
 
-# ⚡ CONNECT WITH ME
+## 🏆 Coding Profiles
+
+- LeetCode
+- HackerRank
+- GeeksforGeeks
+- CodeChef
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Sunidhichaudhary21">
-    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-FF00FF?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="https://github.com/Sunidhichaudhary21">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:csunidhi22@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
 ---
 
-# 💬 FINAL LINE
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=22&center=true&vCenter=true&width=600&lines=Code.+Build.+Innovate.;Turning+Ideas+Into+Reality+🚀"/>
-</p>
-
-<!-- ================= FOOTER ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <i>"Turning Ideas Into Scalable Digital Experiences."</i>
 </p>

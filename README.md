@@ -1,63 +1,103 @@
 <div align="center">
 
-# 👋 Hi, I'm Sunidhi Chaudhary
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Sunidhi%20Chaudhary&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Developer%20|%20Problem%20Solver&descAlignY=55"/>
 
-### Full Stack Developer • MERN Stack • Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Problem+Solver;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Sunidhichaudhary21&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Building+Modern+Web+Applications;⚡+MERN+Stack+Developer;💻+DSA+Enthusiast;🔥+Open+Source+Learner;🌟+Turning+Ideas+Into+Reality"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
 ```yaml
 Name: Sunidhi Chaudhary
 Role: Full Stack Developer
 Education: B.Tech CSE
-CGPA: 8.04
-Location: Gujarat, India
-
-Focus:
-  - Full Stack Development
-  - MERN Stack Applications
-  - Data Structures & Algorithms
-  - Responsive UI/UX
-
-Current Status:
-  - Building Real World Projects
-  - Practicing DSA Daily
-  - Learning Advanced React & Backend
+Tech Stack: MERN
+Passion: Building Scalable Web Apps
+Current Goal: Software Developer Role
 ```
 
 ---
 
-## 💻 Tech Stack
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,tailwind,vercel,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,tailwind,vercel,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 UGC Ads Platform
+
+🚀 Create user-generated ads in minutes
+
+⚡ Full Stack Application
+
+🛠 React • Node • MongoDB
+
+</td>
+
+<td width="50%">
+
+### 💼 Portfolio Website
+
+🎨 Modern UI/UX
+
+📱 Fully Responsive
+
+⚡ Performance Optimized
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎯 FocusFlow
+
+🔥 Productivity Application
+
+⚡ Fast & Optimized
+
+🌍 Real World Project
+
+</td>
+
+<td width="50%">
+
+### 🧠 DSA Journey
+
+🏆 LeetCode Practice
+
+📈 Consistent Learning
+
+⚡ Problem Solving
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sunidhichaudhary21&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sunidhichaudhary21&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhichaudhary21&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhichaudhary21&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -67,97 +107,50 @@ Current Status:
 
 ---
 
-## 🏆 LeetCode & Coding
+# 🏆 LeetCode
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Sunidhichaudhary11?theme=dark&font=Poppins&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Sunidhichaudhary11?theme=dark&font=Nunito&ext=contest"/>
 
 </div>
 
-### 💡 Coding Platforms
+---
 
-- 🔥 LeetCode
-- ⭐ CodeChef
-- 💻 HackerRank
-- 🚀 GeeksforGeeks
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sunidhichaudhary21/Sunidhichaudhary21/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-## 🌟 Featured Projects
-
-### 🚀 UGC Ads Platform
-
-AI-powered platform for creating user-generated advertisements.
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB
-
-🔗 Live Demo | 💻 Source Code
-
----
-
-### 💼 Portfolio Website
-
-Modern portfolio showcasing projects, skills and achievements.
-
-**Tech Stack:** React, Tailwind CSS, Vercel
-
-🌐 https://sunidhi11.netlify.app
-
----
-
-### 🎯 FocusFlow
-
-Productivity and focus enhancement application.
-
-**Tech Stack:** React, JavaScript
-
-🌐 https://www.sachinpd1703.online
-
----
-
-## 📜 Certifications
-
-- ✅ Responsive Web Design – freeCodeCamp
-- ✅ Full Stack Web Development – GeeksforGeeks
-- ✅ Problem Solving – HackerRank
-- ✅ Generative AI – LinkedIn Learning
-
----
-
-## 🌱 Currently Learning
-
-- Advanced React Patterns
-- System Design Fundamentals
-- Backend Architecture
-- Performance Optimization
-
----
-
-## 🤝 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Sunidhichaudhary21">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:csunidhi22@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### ⚡ Turning Ideas Into Scalable Digital Experiences
+### ⚡ "Code • Build • Innovate • Repeat"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>

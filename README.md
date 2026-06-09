@@ -137,4 +137,7 @@ Current Goal: Software Developer Role
 
 <div align="center">
 
+<img src="https://leetcard.jacoblin.cool/Sunidhichaudhary11?theme=dark&font=Nunito&ext=heatmap" />
+
+</div>
 <img src="https://leetcard.jacoblin.cool/Sunidhichaudhary11?theme=dark&font=Nunito&

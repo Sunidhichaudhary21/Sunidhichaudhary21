@@ -47,61 +47,29 @@ Current Goal: Software Developer Role
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🌟 UGC Ads Platform
+<a href="#">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sunidhichaudhary21&repo=LeetMetric&theme=tokyonight&hide_border=true"/>
+</a>
 
-🚀 Create user-generated ads in minutes
+<a href="#">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sunidhichaudhary21&repo=Portfolio&theme=tokyonight&hide_border=true"/>
+</a>
 
-⚡ Full Stack MERN Application
+<a href="#">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sunidhichaudhary21&repo=Bworth-Redesign&theme=tokyonight&hide_border=true"/>
+</a>
 
-🛠 React • Node • MongoDB
+<a href="#">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sunidhichaary21&repo=UGC-Ads-Platform&theme=tokyonight&hide_border=true"/>
+</a>
 
-</td>
+</div>
 
-<td width="50%">
 
-### 💼 Portfolio Website
 
-🎨 Modern UI/UX
 
-📱 Fully Responsive
-
-⚡ Performance Optimized
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎯 FocusFlow
-
-🔥 Productivity Application
-
-⚡ Fast & Optimized
-
-🌍 Real World Project
-
-</td>
-
-<td width="50%">
-
-### 🧠 DSA Journey
-
-🏆 LeetCode Practice
-
-📈 Consistent Learning
-
-⚡ Problem Solving
-
-</td>
-</tr>
-</table>
-
----
 
 # 📊 GitHub Analytics
 

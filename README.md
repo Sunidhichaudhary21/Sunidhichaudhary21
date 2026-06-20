@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Sunidhi%20Chaudhary&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;AI+Application+Builder;Problem+Solver;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Application+Builder;Problem+Solver;Open+Source+Enthusiast"/>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Sunidhichaudhary21&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>

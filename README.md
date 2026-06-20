@@ -208,8 +208,6 @@ Gemini API • Clerk Auth
 
 # 🏆 Achievements & Certifications
 
-✅ Web Developer Intern @ RYM Grenergy
-
 ✅ Responsive Web Design – freeCodeCamp
 
 ✅ Problem Solving – HackerRank
@@ -222,15 +220,6 @@ Gemini API • Clerk Auth
 
 ---
 
-# 📈 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sunidhichaudhary21&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
 
 # 💡 Current Focus
 

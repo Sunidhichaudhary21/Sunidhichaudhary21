@@ -1,111 +1,193 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Sunidhi%20Chaudhary&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Developer%20|%20Problem%20Solver&descAlignY=55"/>
+# Hi 👋, I'm Sunidhi Chaudhary
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;⚡+MERN+Stack+Enthusiast;💻+DSA+Problem+Solver;🔥+Open+Source+Learner;🌟+Building+Scalable+Web+Applications"/>
+### Full-Stack Developer | MERN Developer | Problem Solver
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Sunidhichaudhary21&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Sunidhichaudhary21?style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/stars/Sunidhichaudhary21?style=for-the-badge&color=yellow"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Java+Developer;MERN+Stack+Developer;Open+Source+Enthusiast;Building+Scalable+Applications" />
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-```yaml
-Name: Sunidhi Chaudhary
-Role: Full Stack Developer
-Education: B.Tech CSE
-Tech Stack: MERN Stack
-Passion: Building Scalable Web Applications
-Current Goal: Software Developer Role
-```
+🎓 B.Tech Computer Science Engineering Student
 
-<div align="center">
+💻 Passionate about Full-Stack Development
 
-<img src="https://user-images.githubusercontent.com/74038190/216655848-eabb5f58-6f84-4f73-a6b8-5d1d7d0e6c6e.gif" width="700"/>
+🌱 Currently learning System Design & Advanced DSA
 
-</div>
+⚡ Solved 500+ DSA Problems
+
+🏆 Actively preparing for Software Development Roles
+
+🔭 Working on AI-Powered Web Applications
+
+📍 Gujarat, India
 
 ---
 
-# ⚡ Tech Arsenal
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
+<a href="https://linkedin.com/in/sunidhi-chaudhary-b9a188304">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,tailwind,vercel,vscode&theme=dark"/>
+<a href="mailto:csunidhi22@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-</div>
+<a href="https://github.com/Sunidhichaudhary21">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://leetcode.com/u/sunidhichaudhary11">
+<img src="https://cdn.simpleicons.org/leetcode" width="48"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,html,css,sql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-<div align="center">
+## 📚 FocusFlow – AI Powered Student Productivity Platform
 
-<a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sunidhichaudhary21&repo=UGC&theme=tokyonight&hide_border=true"/>
-</a>
+### Tech Stack
+Next.js • React • TypeScript • PostgreSQL • Prisma • TailwindCSS • React Query • TipTap • Google Drive API
 
-<a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sunidhichaudhary21&repo=Portfolio&theme=tokyonight&hide_border=true"/>
-</a>
+✨ Features
 
-<a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sunidhichaudhary21&repo=FocusFlow&theme=tokyonight&hide_border=true"/>
-</a>
+- Smart Notes Management
+- Rich Text Editor
+- Google Drive Integration
+- Task Management System
+- Syllabus Organizer
+- Auto Save Functionality
+- Modern Responsive UI
 
-<a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sunidhichaary21&repo=UGC-Ads-Platform&theme=tokyonight&hide_border=true"/>
-</a>
+---
 
-</div>
+## 🎥 UGC AI Video Ads Generator
 
+### Tech Stack
 
+React.js • Node.js • Express.js • PostgreSQL • Gemini API • Clerk Auth
 
+✨ Features
 
+- AI Generated Ad Scripts
+- UGC Style Video Creation
+- Authentication System
+- Secure Database Management
+- REST API Integration
+- VPS Deployment
+
+---
+
+## 🌐 Personal Portfolio
+
+### Tech Stack
+
+React.js • JavaScript • Framer Motion • GSAP
+
+✨ Features
+
+- Interactive UI
+- Smooth Animations
+- Responsive Design
+- Project Showcase
+- Contact Integration
+
+---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sunidhichaudhary21&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sunidhichaudhary21&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhichaudhary21&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sunidhichaudhary21&theme=tokyo-night&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhichaudhary21&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 📈 GitHub Summary
+# 💻 LeetCode Stats
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunidhichaudhary21&theme=tokyonight"/>
+<img src="https://leetcard.jacoblin.cool/sunidhichaudhary11?theme=dark&font=Nunito&ext=heatmap" />
 
 </div>
 
 ---
 
-# 🏆 LeetCode Stats
+# 🏆 Achievements
 
-<div align="center">
+🏅 Web Developer Intern at RYM Grenergy
 
-<img src="https://leetcard.jacoblin.cool/Sunidhichaudhary11?theme=dark&font=Nunito&ext=heatmap" />
+🏅 Built Full Stack AI Applications
 
-</div>
-<img src="https://leetcard.jacoblin.cool/Sunidhichaudhary11?theme=dark&font=Nunito&
+🏅 Strong Foundation in DSA & OOP
+
+🏅 Responsive Web Design Certification – freeCodeCamp
+
+🏅 Problem Solving Certification – HackerRank
+
+🏅 Java Certification – HackerRank
+
+🏅 Full Stack Web Development – GeeksforGeeks
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunidhichaudhary21&theme=tokyo-night" />
+
+---
+
+## ☕ Fun Fact
+
+```java
+while(!success){
+    learn();
+    code();
+    improve();
+}
